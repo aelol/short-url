@@ -2,7 +2,7 @@ endpoint
 
 - http://112.74.83.185/raw
 
-	- allowed method 111
+	- allowed method
 			
 			POST
 	- content type
